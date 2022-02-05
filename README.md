@@ -1,0 +1,2 @@
+# PCA
+using NLP method
